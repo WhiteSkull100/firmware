@@ -1,1 +1,0 @@
-{ "companyName": "AlpsAlpine", "buildNum": 50420241, "buildDate": "4-04-2024", "serverFilePath": "Sen54_Firmware.ino.bin", "fileSize": 411568, "md5CheckSum": "2ee22347b29e48a5f7d1bd9e6b8a7ea4" }
